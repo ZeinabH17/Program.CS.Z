@@ -1,0 +1,5 @@
+YourProject/
+│
+├── Program.cs
+├── Student.cs
+└── StudentContext.cs
